@@ -4,10 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-  "author": {
-    "name": "aazis7",
-    "url": "https://github.com/aazis7"
-  },
+  "author": "Abdul Azis",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
